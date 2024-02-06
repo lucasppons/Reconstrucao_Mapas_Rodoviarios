@@ -1,0 +1,10 @@
+data/*.csv
+data/tracksets/
+data/tracks/
+data/rebuilt/
+data/merged/
+data/final/
+data/maps/
+data/isolated/
+
+*.class
